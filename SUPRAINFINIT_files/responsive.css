@@ -1,0 +1,68 @@
+/* lg */
+
+@media (min-width: 1200px) {
+    
+
+
+}
+
+
+/* lg */
+
+
+/* md */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* md */
+
+
+/* sm -up*/
+
+@media (min-width: 768px) {
+ 
+
+}
+
+
+/* sm -up*/
+
+
+/* sm */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+/* sm */
+
+
+/* xs */
+
+@media (max-width: 767px) {
+    
+
+
+}
+
+
+/* xs */
+
+
+/* XS Portrait */
+
+@media (max-width: 479px) {
+    
+}
+
+
+/* XS Portrait */
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-width: 320px) {}
